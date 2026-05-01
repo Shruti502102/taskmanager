@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "67a1c530-84d2-4f48-8f86-2a314438c48d",
+      "name": "Test User",
+      "email": "stest@example.com",
+      "passwordHash": "$2a$10$YlZ6Mvt9/2G1TdYYPTk/n.vPvhJKCJlYgzQSeQQwbA.HnHzY5JFk6",
+      "createdAt": "2026-05-01T01:34:33.509Z"
+    }
+  ],
+  "projects": [
+    {
+      "id": "d65b3255-eb79-4a3e-915a-120ae0e87c60",
+      "name": "Test Project",
+      "description": "A test project to verify the application works",
+      "adminId": "67a1c530-84d2-4f48-8f86-2a314438c48d",
+      "createdAt": "2026-05-01T01:35:18.655Z"
+    }
+  ],
+  "projectMembers": [
+    {
+      "id": "4b45cf81-4ae9-4395-b8bc-ef342a647602",
+      "projectId": "d65b3255-eb79-4a3e-915a-120ae0e87c60",
+      "userId": "67a1c530-84d2-4f48-8f86-2a314438c48d",
+      "role": "admin"
+    }
+  ],
+  "tasks": []
+}
