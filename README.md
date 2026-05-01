@@ -6,7 +6,7 @@ A full-stack collaborative task management application built with React + Node.j
 
 ## 🚀 Live Demo
 
-Deploy URL: (fill in after Railway deployment)
+Deploy URL: ta-production-1fca.up.railway.app
 
 ---
 
